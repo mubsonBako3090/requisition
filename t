@@ -13,9 +13,9 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 # Nodemailer (Gmail SMTP)
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=465
-SMTP_USER=mubarakadambako@gmail.com
-SMTP_PASS=
-SMTP_FROM="KSU Procurement <mubarakadambako@gmail.com>"
+SMTP_USER=jikanbako3090@gmail.com
+SMTP_PASS=biew diwg nmqp vktb
+SMTP_FROM="KSU Procurement <jikanbako3090@gmail.com>"
 
 # Cloudinary
 CLOUDINARY_CLOUD_NAME=your_cloud_name
