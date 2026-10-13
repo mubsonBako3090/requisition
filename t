@@ -18,12 +18,13 @@ SMTP_PASS=biew diwg nmqp vktb
 SMTP_FROM="KSU Procurement <jikanbako3090@gmail.com>"
 
 # Cloudinary
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
+CLOUDINARY_CLOUD_NAME=gnlwriwo
+CLOUDINARY_API_KEY=629989445222797
+CLOUDINARY_API_SECRET=ASiUed3DEOCyxTj-55KRnCfGs7Q
 
 # Escalation threshold (Naira)
 ESCALATION_THRESHOLD=10000000
 
 
-r10eC2XCH3yT9gZX
+r10eC2XCH3yT9gZX mongodb
+cloudinary secret ASiUed3DEOCyxTj-55KRnCfGs7Q
